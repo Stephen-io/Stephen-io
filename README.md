@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Stephen-io
+- 👀 I’m interested in software development, mobile app dev, web dev, API's
+- 🌱 I’m currently learning flutter & dart, UI/UX Design, 
